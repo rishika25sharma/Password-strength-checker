@@ -1,8 +1,8 @@
-\# **Smart Password Strength Checker**
+# Smart Password Strength Checker
 
 
 
-**## Overview**
+## Overview
 
 **The Smart Password Strength Checker is a Python-based application that evaluates the strength of a user’s password.**
 
@@ -16,7 +16,7 @@
 
 
 
-**## Features**
+## Features
 
 **- Checks password strength in real-time**
 
@@ -52,7 +52,7 @@
 
 
 
-**## Technologies Used**
+## Technologies Used
 
 **- Python 3**
 
@@ -64,7 +64,7 @@
 
 
 
-**## Installation \& Setup**
+## Installation \& Setup
 
 
 
@@ -92,7 +92,7 @@
 
 
 
-**## Usage**
+## Usage
 
 
 
@@ -106,7 +106,7 @@
 
 
 
-**## Example**
+## Example
 
 
 
@@ -118,7 +118,7 @@
 
 
 
-**## Future Improvements**
+## Future Improvements
 
 
 
@@ -130,7 +130,7 @@
 
 
 
-**## Learning Outcomes**
+## Learning Outcomes
 
 
 
@@ -142,7 +142,7 @@
 
 
 
-**## Author**
+## Author
 
 
 
