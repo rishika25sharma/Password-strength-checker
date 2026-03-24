@@ -1,14 +1,14 @@
-\# **Smart Password Strength Checker (AI-Based)**
+\# **Smart Password Strength Checker**
 
 
 
 **## Overview**
 
-**The Smart Password Strength Checker is a Python-based application that evaluates the strength of a user’s password using rule-based artificial intelligence techniques.**
+**The Smart Password Strength Checker is a Python-based application that evaluates the strength of a user’s password.**
 
 
 
-**This project focuses on enhancing cyber awareness by helping users understand how secure their passwords are and encouraging better password practices.**
+**This project focuses on enhancing cyber awareness and digital literacy by helping users understand how secure their passwords are and encouraging better password practices.**
 
 
 
@@ -22,21 +22,21 @@
 
 **- Evaluates multiple security parameters:**
 
-&#x20; **- Minimum length**
+**- Minimum length**
 
-&#x20; **- Uppercase and lowercase characters**
+**- Uppercase and lowercase characters**
 
-&#x20; **- Numeric digits**
+**- Numeric digits**
 
-&#x20; **- Special symbols**
+**- Special symbols**
 
 **- Classifies passwords as:**
 
-&#x20; **- Weak**
+**- Weak**
 
-&#x20; **- Medium**
+**- Medium**
 
-&#x20; **- Strong**
+**- Strong**
 
 **- Lightweight and runs directly from the terminal**
 
@@ -44,15 +44,7 @@
 
 
 
-
-
-**## Approach (AI Logic)**
-
-**This project uses a \*\*rule-based AI system\*\*, where predefined rules simulate intelligent decision-making.**
-
-
-
-**Each password is analyzed based on different criteria, and a score is assigned. The final classification is determined using this score.**
+**Each password is analyzed based on different criteria and a score is assigned. The final classification is determined using this score.**
 
 
 
@@ -84,15 +76,13 @@
 
 
 
-&#x20;  **cd password-strength-checker**
+**cd password-strength-checker**
 
 
 
 **3. Run the program:**
+**python main.py**
 
-
-
-&#x20;  **python main.py**
 
 
 
@@ -132,7 +122,6 @@
 
 
 
-* **Add machine learning model for better prediction**
 * **Create GUI/web interface**
 * **Provide suggestions for improving weak passwords**
 * **Integrate with real-time password validation systems**
