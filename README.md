@@ -4,13 +4,7 @@
 
 ## Overview
 
-**The Smart Password Strength Checker is a Python-based application that evaluates the strength of a user’s password.**
-
-
-
-**This project focuses on enhancing cyber awareness and digital literacy by helping users understand how secure their passwords are and encouraging better password practices.**
-
-
+**The Smart Password Strength Checker is a Python-based application that evaluates the strength of a user’s password. It analyzes different characteristics such as length, use of uppercase and lowercase letters, numbers and special characters. Based on these factors, the system classifies the password as weak, medium or strong. This project focuses on enhancing cyber awareness and digital literacy by helping users understand how secure their passwords are and encouraging better password practices.**
 
 
 
@@ -38,7 +32,7 @@
 
 **- Strong**
 
-**- Lightweight and runs directly from the terminal**
+**- Simple and easy to run from the terminal.**
 
 
 
@@ -124,7 +118,7 @@
 
 * **Create GUI/web interface**
 * **Provide suggestions for improving weak passwords**
-* **Integrate with real-time password validation systems**
+* **Checks password strength instantly after input**
 
 
 
@@ -133,8 +127,7 @@
 ## Learning Outcomes
 
 
-
-* **Understanding of basic AI (rule-based systems)**
+* **Awareness of strong password practices**
 * **Application of cybersecurity principles**
 * **Hands-on experience with Python** 
 
@@ -145,9 +138,7 @@
 ## Author
 
 
-
 **Rishika Sharma**
-
 
 
 **Course: Digital Literacy**
