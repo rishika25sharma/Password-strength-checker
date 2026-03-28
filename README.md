@@ -24,35 +24,35 @@ Analyzed a case study related to digital literacy and online safety, focusing on
 
 ## Project Structure
 
-digital-literacy-project/
-│
-├── root/
-│ ├── README.md
-│ ├── Requirements.txt
-│ └── main.py 
-│
-├── report/
-│ └── Project report.pdf
-│
-├── task-1-presentation/
-│ └── infographic.png
-│
-├── task-2-portfolio/
-│ ├── github-profile.png
-│ └── linkedin-profile.jpeg
-│
-├── task-3-platforms/
-│ ├── hackerrank.png
-│ ├── Google form.png
-│ └── responses.png
-│
-├── task-4-email-etiquette/
-│ ├── email1.txt
-│ ├── email2.txt
-│ └── social-media-checklist.md
-│
-├── task-5-cybercrime/
- └── CASE STUDY_[25BCE11100]_[Rishika Sharma]
+### digital-literacy-project/
+
+root/
+README.md
+Requirements.txt
+main.py 
+
+report/
+Project report.pdf
+
+task-1-presentation/
+infographic.png
+
+task-2-portfolio/
+github-profile.png
+linkedin-profile.jpeg
+
+task-3-platforms/
+hackerrank.png
+Google form.png
+responses.png
+
+task-4-email-etiquette/
+email1.txt
+email2.txt
+social-media-checklist.md
+
+task-5-cybercrime/
+CASE STUDY_[25BCE11100]_[Rishika Sharma]
 
 
 ## How to Run (Python Program)
