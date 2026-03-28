@@ -155,25 +155,25 @@ Output: Strong Password
 
 ## Future Improvements
 
-Create GUI/web interface
-Provide suggestions for improving weak passwords
-Checks password strength instantly after input
+- Create GUI/web interface
+- Provide suggestions for improving weak passwords
+- Checks password strength instantly after input
 
 
 
 ## Learning Outcomes
 
-Awareness of strong password practices
-Application of cybersecurity principles
-Hands-on experience with Python
+- Awareness of strong password practices
+- Application of cybersecurity principles
+- Hands-on experience with Python
 
 
 
 ## Author
 
-Rishika Sharma
-[25BCE11100]
-B.Tech CSE Core (1st year)
+- Rishika Sharma
+- [25BCE11100]
+- B.Tech CSE Core (1st year)
 
 ## Digital literacy
 
