@@ -172,7 +172,8 @@ Hands-on experience with Python
 ## Author
 
 Rishika Sharma
-25BCE11100
+[25BCE11100]
+B.Tech CSE Core (1st year)
 
 ## Digital literacy
 
