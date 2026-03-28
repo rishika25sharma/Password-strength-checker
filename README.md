@@ -129,7 +129,17 @@
 
 * **Awareness of strong password practices**
 * **Application of cybersecurity principles**
-* **Hands-on experience with Python** 
+* **Hands-on experience with Python**
+
+
+
+
+
+
+## Google Form Link
+
+https://forms.gle/fjn8pufYvGxvY8Cp9
+
 
 
 
