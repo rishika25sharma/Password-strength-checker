@@ -24,34 +24,36 @@ Analyzed a case study related to digital literacy and online safety, focusing on
 
 ## Project Structure
 
-### digital-literacy-project/
+## digital-literacy-project/
 
-root/
+### root
 README.md
 Requirements.txt
 main.py 
 
-report/
+### report
 Project report.pdf
 
-task-1-presentation/
+### task-1-presentation
 infographic.png
 
-task-2-portfolio/
+### task-2-portfolio
 github-profile.png
 linkedin-profile.jpeg
 
-task-3-platforms/
-hackerrank.png
+### task-3-platforms
 Google form.png
-responses.png
+Responses 1.png
+Responses 2.png
+hackerrank1.png
+hackerrank2.png
 
-task-4-email-etiquette/
+### task-4-email-etiquette
 email1.txt
 email2.txt
 social-media-checklist.md
 
-task-5-cybercrime/
+### task-5-cybercrime
 CASE STUDY_[25BCE11100]_[Rishika Sharma]
 
 
@@ -76,15 +78,15 @@ https://forms.gle/fjn8pufYvGxvY8Cp9
 - Understanding of cyber risks and awareness  
 - Use of digital tools for learning and collaboration
 
-Smart Password Strength Checker
+# Smart Password Strength Checker
 
 
-Overview
+## Overview
 
 The Smart Password Strength Checker is a Python-based application that evaluates the strength of a user’s password. It analyzes different characteristics such as length, use of uppercase and lowercase letters, numbers and special characters. Based on these factors, the system classifies the password as weak, medium or strong. This project focuses on enhancing cyber awareness and digital literacy by helping users understand how secure their passwords are and encouraging better password practices.
 
 
-Features
+## Features
 
 - Checks password strength in real-time
 
@@ -119,7 +121,7 @@ Technologies Used
 
 
 
-Installation & Setup
+## Installation & Setup
 
 
 1. Clone the repository:
@@ -134,21 +136,21 @@ cd password-strength-checker
 
 
 
-Usage
+## Usage
 Run the script
 Enter any password
 The system will analyze and display its strength
 
 
 
-Example
+## Example
 Input: Abc@1234
 
 Output: Strong Password
 
 
 
-Future Improvements
+## Future Improvements
 
 Create GUI/web interface
 Provide suggestions for improving weak passwords
@@ -156,7 +158,7 @@ Checks password strength instantly after input
 
 
 
-Learning Outcomes
+## Learning Outcomes
 
 Awareness of strong password practices
 Application of cybersecurity principles
