@@ -78,6 +78,8 @@ https://forms.gle/fjn8pufYvGxvY8Cp9
 - Understanding of cyber risks and awareness  
 - Use of digital tools for learning and collaboration
 
+  
+
 # Smart Password Strength Checker
 
 
@@ -144,6 +146,7 @@ The system will analyze and display its strength
 
 
 ## Example
+
 Input: Abc@1234
 
 Output: Strong Password
@@ -169,4 +172,7 @@ Hands-on experience with Python
 ## Author
 
 Rishika Sharma
+25BCE11100
+
+## Digital literacy
 
